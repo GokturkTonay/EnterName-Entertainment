@@ -1,3 +1,2 @@
-# project_alpha
-
-Developed with Unreal Engine 5
+# EnterName-Entertainment
+Video Game Studio
